@@ -1,0 +1,3 @@
+/Users/omarpacheco/CLionProjects/SFML/version3/cmake-build-debug/CMakeFiles/version3.dir
+/Users/omarpacheco/CLionProjects/SFML/version3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarpacheco/CLionProjects/SFML/version3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
